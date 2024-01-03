@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @irpannnn
 - 👀 I’m interested in graphic design and frontend developer
 - 🌱 I’m currently learning frontend Dev
-- 💞️ I’m looking to collaborate on my patner
+- 💞️ I’m looking to collaborate on my patner @dinnn
 - 📫 How to reach me ...
 
 <!---
